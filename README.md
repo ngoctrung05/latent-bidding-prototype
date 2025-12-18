@@ -14,7 +14,7 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ngoctrung05/latent-bidding-prototype.git](https://github.com/ngoctrung05/latent-bidding-prototype.git)
+    git clone https://github.com/ngoctrung05/latent-bidding-prototype.git
     cd latent-bidding-prototype
     ```
 
